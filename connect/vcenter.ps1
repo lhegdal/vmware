@@ -1,4 +1,4 @@
 $name = vcenter
 
 
-Connect-VIServer -Server $name 
+Connect-VIServer -Server 
